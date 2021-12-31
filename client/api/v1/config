@@ -5,7 +5,7 @@
 	"loginless": 0,
 	"loginless_link": "",
 	"code_login": 0,
-	"code_register": 1,
+	"code_register": 0,
 	"captcha_login": 0,
 	"captcha_register": 0,
 	"captcha_checkin": 0,
@@ -18,6 +18,6 @@
 		"Wechat": "1"
 	},
 	"hosts": [
-		"https://dev.abc-qawsed.xyz/"
+		"https://c0.hyslb.net/"
 	]
 }
