@@ -18,6 +18,7 @@
 		"Wechat": "1"
 	},
 	"hosts": [
-		"https://s0.bshub.net"
+		"https://s0.bshub.net",
+		"https://jp01.bprolink.com"
 	]
 }
