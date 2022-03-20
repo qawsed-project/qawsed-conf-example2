@@ -20,6 +20,10 @@
 	"hosts": [
 		"https://s0.bshub.net",
 		"https://jp01.bprolink.com",
-        "https://kda02.bprolink.com"
+		"https://kda02.bprolink.com",
+		"https://gcp01.bprolink.com",
+		"https://bwh01.bprolink.com",
+		"https://dmit01.bprolink.com",
+		"https://hk01.bprolink.com"
 	]
 }
