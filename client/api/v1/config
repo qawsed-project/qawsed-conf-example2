@@ -19,6 +19,7 @@
 	},
 	"hosts": [
 		"https://s0.bshub.net",
-		"https://jp01.bprolink.com"
+		"https://jp01.bprolink.com",
+        "https://kda02.bprolink.com"
 	]
 }
